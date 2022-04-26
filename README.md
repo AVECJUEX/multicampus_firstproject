@@ -26,10 +26,13 @@
 
 
 # 실행화면 (admin 페이지 부분)
+
 - 실행화면
+
 ![image](https://user-images.githubusercontent.com/95205529/165286329-c54e8859-6d0e-4151-8b7c-5ccb1ac5b35a.png)
 
 - 홈화면
+
 ![image](https://user-images.githubusercontent.com/95205529/165286417-b5c64b94-06e2-4203-90f4-9d7a3a9f852f.png)
 
 - 메일전송
